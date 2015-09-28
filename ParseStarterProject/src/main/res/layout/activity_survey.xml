@@ -1,0 +1,75 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="30dp"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/survey_progress"
+            android:text="@string/sphere"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/question_prompt"
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="26dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/response_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/submit_button"
+            android:layout_width="260dp"
+            android:layout_height="85dp"
+            android:text="@string/submit_question"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/edit_last_question"
+            android:layout_width="260dp"
+            android:layout_height="85dp"
+            android:text="@string/edit_last_question"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/return_button"
+            android:layout_width="260dp"
+            android:layout_height="85dp"
+            android:text="@string/return_home"
+            android:textSize="20dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/pre-dexed/release/classes-e4c46163c425f8ea3a42f3e60b547549e9508b27.jar" />
+    </item>
+    <item
+        jar="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/pre-dexed/release/internal_impl-22.2.0-50c13e190217fb55415e86841a18145e8cae5c29.jar" />
+    </item>
+    <item
+        jar="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/pre-dexed/release/classes-7696bb63c9a8b841a87dcbd20b8bd7678336ea42.jar" />
+    </item>
+    <item
+        jar="/Users/peter/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/pre-dexed/release/bolts-android-1.2.1-e8119eec2530ebd88cd361bf34a3e1a64689376b.jar" />
+    </item>
+    <item
+        jar="/Users/peter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/pre-dexed/release/support-annotations-22.2.0-5254d4dfa52b8b5380251c99c99ea4954b48f5b5.jar" />
+    </item>
+    <item
+        jar="/Users/peter/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.10.1/a87cb993a12e574a216213d0b8b2b78f6da35d37/parse-android-1.10.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a87cb993a12e574a216213d0b8b2b78f6da35d37">
+        <dex dex="/Users/peter/Downloads/Parse-Starter-Project-1.10.1/ParseStarterProject/build/intermediates/pre-dexed/release/parse-android-1.10.1-42a5a5cd00288b6813cb556d6b956c236128ea71.jar" />
+    </item>
+
+</items>

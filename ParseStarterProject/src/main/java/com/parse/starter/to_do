@@ -1,0 +1,29 @@
+
+All the stuff to finish:
+
+1. Create a table of possible response options (this is for radio buttons/ checkboxes).
+2. Write responses as individual responses instead of as text strings.
+3. Clarify survey questions with Priya.
+4. Work on layout.
+5. Consistent navigation throughout the app.
+6. Progress bar for the survey?
+7. Resume unfinished survey.
+8. Read all questions/surveys from local datastore.
+9. Write responses to local datastore to cloud.
+10. Sync responses from local datastore to cloud.
+
+* Screen 1: MainActivity
+    Button - New survey response
+    Button - Resume unfinished survey
+    Button - Sync data w/ Cloud
+* Screen 2: Button - New survey response (SurveyActivity)
+    Question prompt
+    Response options
+    Button - submit question
+    Button - Return home (save and finish later) - goes to MainActivity.java
+* Screen 3: Button - Resume unfinished survey (ResumeSurveyActivity)
+    List view - list out unfinished surveys
+    On click: Go to SurveyActivity at that particular question
+* Screen 4: Button - Sync data w/ Cloud (SyncDataActivity)
+    Display progress bar ("Checking for new surveys/questions", "Writing new responses", "xx % complete")
+    When finished - display message ("Finished!") - display button ("Return Home")
